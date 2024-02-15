@@ -1,1 +1,0 @@
-![[chaotic_oscillator_wRoyce_March_2022.pdf]]
