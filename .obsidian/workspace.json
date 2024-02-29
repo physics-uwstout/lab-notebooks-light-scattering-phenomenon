@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "4bd9c0bd6eb2c0d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "35636fb51ae93873",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1044cc11b82253ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d727a3ecee8d611a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sophie's Lab Notebooks/Student Lab Notebooks/Gelhar_Sophie/Gelhar, Sophie  Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62559e30d511d8ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b94c8532d8c6065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f776c0742decf64f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5eebdf5beafdf62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f48b3dd0a262a50",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6deecdea8c881907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "83e28adb2f9ada84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2789e5e979df1d95",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc7a3c9c50b51813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cda146220a7c5ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sophie's Lab Notebooks/Student Lab Notebooks/Gelhar_Sophie/Gelhar, Sophie  Table of Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5065b106d3b5aac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sophie's Lab Notebooks/Student Lab Notebooks/Gelhar_Sophie/Gelhar, Sophie  Table of Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0731f309d6cd973b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "73ce973e6dc6ff48",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sophie's Lab Notebooks/Student Lab Notebooks/Gelhar_Sophie/Gelhar, Sophie  Table of Contents.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d727a3ecee8d611a",
+  "lastOpenFiles": [
+    "Sophie's Lab Notebooks/2024-02-15.md",
+    "Sophie's Lab Notebooks/Student Lab Notebooks/Gelhar_Sophie/Gelhar, Sophie  Table of Contents.md",
+    "Sophie's Lab Notebooks/2024-02-13.md",
+    "Sophie's Lab Notebooks/2024-02-08.md",
+    "What is markdown.md",
+    "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-29.md",
+    "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-15.md",
+    "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-13.md",
+    "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks/2024-02-08.md",
+    "Sophie's Lab Notebooks/Student Lab Notebooks/Student Lab Notebooks.md",
+    "Sophie's Lab Notebooks/00_Main Note.md",
+    "Experiment_Turned.jpg",
+    "Solution.jpg",
+    "Pasted image 20240229134326.png",
+    "Untitled.md",
+    "Experiment Setup-Annotated.jpg",
+    "lab-notebooks-light-scattering-phenomenon/Sophie's Lab Notebooks",
+    "lab-notebooks-light-scattering-phenomenon",
+    "Sophie's Lab Notebooks/2024-02-015.md",
+    "Sophie's Lab Notebooks/Untitled.md"
+  ]
+}
