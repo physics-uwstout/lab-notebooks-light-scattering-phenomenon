@@ -33,5 +33,5 @@ Welcome to Sophie's lab notebook on the Light Scattering Phenomena Project, star
 * [[2024-04-15]]
 	* Summary: Troubleshooting works! Data is finally collected that makes sense!
 	* Big Question: What needs to be changed to obtain useable data?
-	
-
+* [[Links to Final Data]]
+	* Summary: This is just linking to the data and files used in the final paper.
